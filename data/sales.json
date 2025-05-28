@@ -1,0 +1,194 @@
+{
+    "sales": [
+      {
+        "productId": "P001",
+        "saleDate": "2025-05-05",
+        "saleCount": 100,
+        "category": "Electronics",
+        "price": 200
+      },
+      {
+        "productId": "P002",
+        "saleDate": "2025-05-05",
+        "saleCount": 300,
+        "category": "Home",
+        "price": 150
+      },
+      {
+        "productId": "P003",
+        "saleDate": "2025-05-05",
+        "saleCount": 500,
+        "category": "Beauty",
+        "price": 50
+      },
+      {
+        "productId": "P004",
+        "saleDate": "2025-05-05",
+        "saleCount": 400,
+        "category": "Electronics",
+        "price": 200
+      },
+      {
+        "productId": "P001",
+        "saleDate": "2025-05-01",
+        "saleCount": 120,
+        "category": "Electronics",
+        "price": 200
+      },
+      {
+        "productId": "P002",
+        "saleDate": "2025-05-02",
+        "saleCount": 280,
+        "category": "Home",
+        "price": 150
+      },
+      {
+        "productId": "P003",
+        "saleDate": "2025-05-03",
+        "saleCount": 320,
+        "category": "Beauty",
+        "price": 50
+      },
+      {
+        "productId": "P004",
+        "saleDate": "2025-05-04",
+        "saleCount": 150,
+        "category": "Electronics",
+        "price": 200
+      },
+      {
+        "productId": "P001",
+        "saleDate": "2025-04-15",
+        "saleCount": 80,
+        "category": "Electronics",
+        "price": 200
+      },
+      {
+        "productId": "P002",
+        "saleDate": "2025-04-16",
+        "saleCount": 230,
+        "category": "Home",
+        "price": 150
+      },
+      {
+        "productId": "P003",
+        "saleDate": "2025-04-17",
+        "saleCount": 100,
+        "category": "Beauty",
+        "price": 50
+      },
+      {
+        "productId": "P004",
+        "saleDate": "2025-04-18",
+        "saleCount": 210,
+        "category": "Electronics",
+        "price": 200
+      },
+      {
+        "productId": "P001",
+        "saleDate": "2025-03-10",
+        "saleCount": 160,
+        "category": "Electronics",
+        "price": 200
+      },
+      {
+        "productId": "P002",
+        "saleDate": "2025-03-15",
+        "saleCount": 190,
+        "category": "Home",
+        "price": 150
+      },
+      {
+        "productId": "P003",
+        "saleDate": "2025-03-20",
+        "saleCount": 220,
+        "category": "Beauty",
+        "price": 50
+      },
+      {
+        "productId": "P001",
+        "saleDate": "2024-12-25",
+        "saleCount": 200,
+        "category": "Electronics",
+        "price": 200
+      },
+      {
+        "productId": "P002",
+        "saleDate": "2024-12-20",
+        "saleCount": 330,
+        "category": "Home",
+        "price": 150
+      },
+      {
+        "productId": "P003",
+        "saleDate": "2024-11-28",
+        "saleCount": 270,
+        "category": "Beauty",
+        "price": 50
+      },
+      {
+        "productId": "P004",
+        "saleDate": "2024-11-15",
+        "saleCount": 300,
+        "category": "Electronics",
+        "price": 200
+      },
+      {
+        "productId": "P001",
+        "saleDate": "2023-08-10",
+        "saleCount": 90,
+        "category": "Electronics",
+        "price": 200
+      },
+      {
+        "productId": "P002",
+        "saleDate": "2023-07-15",
+        "saleCount": 110,
+        "category": "Home",
+        "price": 150
+      },
+      {
+        "productId": "P003",
+        "saleDate": "2023-06-18",
+        "saleCount": 95,
+        "category": "Beauty",
+        "price": 50
+      },
+      {
+        "productId": "P004",
+        "saleDate": "2023-05-05",
+        "saleCount": 130,
+        "category": "Electronics",
+        "price": 200
+      },
+      {
+        "productId": "P001",
+        "saleDate": "2022-01-01",
+        "saleCount": 70,
+        "category": "Electronics",
+        "price": 200
+      },
+      {
+        "productId": "P002",
+        "saleDate": "2022-02-15",
+        "saleCount": 85,
+        "category": "Home",
+        "price": 150
+      },
+      {
+        "productId": "P003",
+        "saleDate": "2022-03-10",
+        "saleCount": 60,
+        "category": "Beauty",
+        "price": 50
+      },
+      {
+        "productId": "P004",
+        "saleDate": "2022-04-22",
+        "saleCount": 95,
+        "category": "Electronics",
+        "price": 200
+      }
+    ]
+  }
+  

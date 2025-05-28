@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Wireless Mouse",
+      "description": "Ergonomic wireless mouse with USB receiver",
+      "price": 25.99,
+      "stock_level": 15,
+      "image_url": "http://localhost:3000/uploads/1748444472206-631721276-logo.jpeg",
+      "low_stock_threshold": 10
+    },
+    {
+      "id": "P002",
+      "name": "Mechanical Keyboard",
+      "description": "RGB backlit mechanical keyboard with blue switches",
+      "price": 79.99,
+      "stock_level": 8,
+      "image_url": "http://localhost:3000/uploads/1748444472206-631721276-logo.jpeg",
+      "low_stock_threshold": 10
+    },
+    {
+      "id": "P003",
+      "name": "27-inch Monitor",
+      "description": "4K UHD monitor with HDMI and DisplayPort",
+      "price": 299.99,
+      "stock_level": 20,
+      "image_url": "http://localhost:3000/uploads/1748444472206-631721276-logo.jpeg",
+      "low_stock_threshold": 5
+    },
+    {
+      "id": "P004",
+      "name": "USB-C Hub",
+      "description": "7-in-1 USB-C hub with 4K HDMI, USB 3.0, and SD card reader",
+      "price": 34.5,
+      "stock_level": 5,
+      "image_url": "http://localhost:3000/uploads/1748444472206-631721276-logo.jpeg",
+      "low_stock_threshold": 5
+    },
+    {
+      "id": "P005",
+      "name": "Laptop Stand",
+      "description": "Adjustable aluminum laptop stand for desks",
+      "price": 45,
+      "stock_level": 0,
+      "image_url": "http://localhost:3000/uploads/1748444472206-631721276-logo.jpeg",
+      "low_stock_threshold": 5
+    },
+    {
+      "id": "P006",
+      "name": "Router",
+      "description": "Router",
+      "price": 55,
+      "stock_level": 200,
+      "low_stock_threshold": 100,
+      "image_url": "http://localhost:3000/uploads/1748456969189-913378872-Screenshot 2025-05-17 142949.png"
+    },
+    {
+      "id": "P007",
+      "name": "Gaming PC",
+      "description": "Gaming PC",
+      "price": 33,
+      "stock_level": 40,
+      "low_stock_threshold": 50,
+      "image_url": "http://localhost:3000/uploads/1748457186733-330605368-Screenshot 2025-04-30 184757.png"
+    },
+    {
+      "id": "P008",
+      "name": "Mouse",
+      "description": "Mouse",
+      "price": 22,
+      "stock_level": 44,
+      "low_stock_threshold": 55,
+      "image_url": "http://localhost:3000/uploads/1748457349335-998627253-Screenshot 2025-04-22 152627.png"
+    }
+  ]
+}
