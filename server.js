@@ -33,6 +33,10 @@ if (!fs.existsSync("uploads")) {
   fs.mkdirSync("uploads");
 }
 
+app.get("/", (req, res) => {
+  res.json("<h1>Forsit Backend</h1>");
+});
+
 app.post("/upload-file", upload.single("file"), (req, res) => {
   if (!req.file) {
     return res.status(400).send("No file uploaded.");
